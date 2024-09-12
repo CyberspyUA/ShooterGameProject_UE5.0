@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Maps/Map_MainMenu.umap",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Blueprints/Player/BP_PlayerBase.uasset",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Maps/Map_Main.umap",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Blueprints/GM_ShooterGameProject.uasset",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Blueprints/Enemies/BP_EnemyBase.uasset",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Blueprints/PC_ShooterGameProject.uasset",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/UI/WB_Main.uasset",
+				"D:/Projects/Unreal_Engine_Projects/ShooterGameProject/Content/Blueprints/AIC_ShooterGameProject.uasset"
+			]
+		}
+	]
+}
